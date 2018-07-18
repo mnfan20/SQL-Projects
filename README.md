@@ -1,2 +1,13 @@
 # SQL-Projects
-SQL Projects/Challenges
+# SQL Projects/Challenges
+
+# OWNER: MICHAEL FAN
+# README
+
+# OVERVIEW OF PROJECTS LISTED DOWN BELOW
+
+1. 
+2.
+3.
+4.
+5.
